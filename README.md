@@ -41,3 +41,6 @@ Cada comentario es de una sola línea y sirve para notas rápidas dentro del có
 `/** ... */` Javadoc es documentación que se genera en HTML
 
 La diferencia es que solo Javadoc usa el último para crear documentación, y debe ir justo antes de la clase o método que describe.
+
+## Salida del programa
+<img width="647" height="190" alt="image" src="https://github.com/user-attachments/assets/b79f8445-9109-41a4-a054-abb5bff002e0" />
