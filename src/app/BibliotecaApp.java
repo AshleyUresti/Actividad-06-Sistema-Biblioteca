@@ -18,7 +18,7 @@ void main() {
     Prestamo prestamo1 = new Prestamo(LocalDate.now(), LocalDate.now().plusDays(1));
     String resultado = prestamo1.realizarPrestamo(u1, ej1);
 
-    System.out.printf(resultado);
+    System.out.println(resultado);
     System.out.println("Estado tras prestamo: " + ej1.getEstado());
     System.out.println("¿Vencido?" + prestamo1.estaVencido());
 
